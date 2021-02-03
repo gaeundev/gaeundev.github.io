@@ -1,0 +1,11 @@
+- name: NodeJS (ES6)
+  percentage: 70
+  color: danger
+
+- name: PHP 7
+  percentage: 80
+  color:
+
+- name: MySQL 5, 8
+  percentage: 70
+  color: dark
